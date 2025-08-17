@@ -1,7 +1,8 @@
 # Hacktiv8-Final-Project
 
-before run
+Steps
 - create a file .env
 - write a line GOOGLE_API_KEY=xxxxx_your_key_xxxx
 - save
-- run
+- pip install -r requirements.txt
+- streamlit run main.py
