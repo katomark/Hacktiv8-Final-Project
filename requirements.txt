@@ -1,0 +1,11 @@
+streamlit
+langchain-core
+sentence-transformers
+langchain-community 
+faiss-cpu
+langchain-google-genai
+PyMuPDF
+langchain-groq
+langgraph
+pypdf
+google-generativeai
